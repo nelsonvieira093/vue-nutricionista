@@ -7,6 +7,9 @@ Este projeto foi desenvolvido como parte de um teste técnico para a vaga de Fro
 ## 🚀 Deploy
 🔗 [Acesse o projeto publicado](https://teal-elf-ae368a.netlify.app/)
 
+👨‍💻 Autor
+Desenvolvido por Nelson João Carlos Vieira
+🔗 [LinkedIn](https://www.linkedin.com/in/nelson-jo%C3%A3o-carlos-vieira-a9017b163/)
 ---
 
 ## 🔧 Tecnologias Utilizadas
@@ -89,7 +92,3 @@ Telas de testes:
 ![Teste 02 - Plano Alimentar](assets/teste_02_funcionou.jpg)
 ![Teste 03 - Relatório](assets/teste_03_funcionou.jpg)
 
-
-👨‍💻 Autor
-Desenvolvido por Nelson João Carlos Vieira
-📎 [LinkedIn](https://www.linkedin.com/in/nelson-jo%C3%A3o-carlos-vieira-a9017b163/)
